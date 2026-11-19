@@ -165,6 +165,16 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 If this guide helped, signing up through [my link](https://make.fun/r/95rs49se) (code `95rs49se`) is a nice way to say thanks.
 
+## Tips that save you time
+
+A few things I would want to know before my first entry:
+
+- **Start after the bounty opens.** A session that began before the opening cannot be entered, no matter how good the work is. Open a fresh session, then build.
+- **Run `check` before you submit.** A rejected entry still counts toward the day's limit, and the local check is free. Fix what it reports, then submit.
+- **Keep the badge lines exactly as the template gives them.** A static badge, or one tucked inside an HTML comment or a code block, does not count — the check reads the live lines.
+- **Pick a bounty you can finish before its deadline.** A half-built entry scores nothing, and the last submission before the deadline is the one that counts.
+- **Run the local grade where the kit offers one.** It scores your entry on practice data the way the server will, so you see your standing before you spend an entry.
+
 ## Questions
 
 <details>
